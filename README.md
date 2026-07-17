@@ -34,19 +34,3 @@ A hybrid C++/TypeScript satellite orbital mechanics toolkit for high-precision o
 #### 🔍 [PR Review Agent](https://github.com/vaibhav-kodiyan/pr-review-agent)
 AI-powered, multi-pass code review for GitHub pull requests, built on LangGraph. Fans a PR diff out to specialized reviewers — logic, security, style, and performance — that stream in parallel and synthesize into one severity-tagged comment list. Local-first, multi-provider (Anthropic, OpenAI, Google, Mistral).
 `TypeScript` `Python`
-
----
-
-📊 GitHub Stats
-
-<div align="center">
-<img src="https://img.shields.io/github/followers/vaibhav-kodiyan?style=social" alt="Followers"/>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fvaibhav-kodiyan&label=Public%20Repos&query=%24.public_repos&style=flat&color=blue" alt="Public repos"/>
-</div>
-
----
-
-<div align="center">
-💭 <i>Breaks assumptions, not production...</i>
-</div>
