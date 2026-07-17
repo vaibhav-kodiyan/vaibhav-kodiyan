@@ -114,8 +114,6 @@ AI-powered, multi-pass code review for GitHub pull requests, built on LangGraph.
 </tr>
 </table>
 
-> Star/commit/issue counts above are live badges from shields.io — a large, stable, CDN-backed service, not one of the flaky single-purpose demo hosts — so these should render reliably regardless of the metrics setup above.
-
 ---
 
 ### 🐍 Contribution Snake
@@ -129,5 +127,4 @@ AI-powered, multi-pass code review for GitHub pull requests, built on LangGraph.
 ---
 
 <div align="center">
-<sub>⚡ Badges pull live from shields.io/komarev.com on every render; the metrics card and snake refresh daily via GitHub Actions. Either way, this file itself never needs hand-editing when stats change.</sub>
 </div>
