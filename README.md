@@ -1,16 +1,52 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**vaibhav-kodiyan/vaibhav-kodiyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Vaibhav Kodiyan 👋
 
-Here are some ideas to get you started:
+**Agentic Engineer** · Breaks assumptions, not production 💭
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-kodiyan)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/Vaibhav_Kodiyan)
+
+</div>
+
+---
+
+### 🚀 About Me
+
+I build tools that sit at the intersection of **AI agents, autonomy, and simulation** — instruction systems that keep coding agents disciplined, controllers that keep a race car on line, and trackers that keep satellites from colliding. I care about systems that fail safely, stay minimal, and do exactly what they claim to do.
+
+---
+
+### 📌 Featured Projects
+
+#### 🪶 [Rig](https://github.com/vaibhav-kodiyan/ravenwork-rig)
+A lightweight, host-agnostic instruction system for coding agents. Installs a portable, markdown-only "Tier 1" workflow into any repository — one shared router, focused skills for intent, design, execution, TDD, debugging, and code review, plus an always-on minimal-implementation rule. Native support spans Claude Code, Cursor, Windsurf, Cline, GitHub Copilot, Codex, Gemini CLI, Antigravity, Kiro, and more.
+`JavaScript` `Python` `Shell`
+
+#### 🏎️ [FS Racing Line Optimizer](https://github.com/vaibhav-kodiyan/fs-racing-line-optimizer)
+A Formula Student racing line optimizer that turns cone positions into drivable paths. Implements Hungarian/greedy cone pairing, Laplacian and spline smoothing, convex racing-line optimization, and a kinematic bicycle model driven by Pure Pursuit, Stanley, and MPPI controllers — with a real-time simulator and an optional ROS 2 node.
+`Python` · ⭐ 2
+
+#### 🛰️ [Nova Genesis Orbital Guard](https://github.com/vaibhav-kodiyan/nova-genisis-orbitalgaurd)
+A hybrid C++/TypeScript satellite orbital mechanics toolkit for high-precision orbit propagation and conjunction analysis. A C++ backend ingests TLE data, propagates satellite trajectories, and screens for close approaches; a React Three Fiber frontend renders it all in real-time 3D.
+`TypeScript` `C++` · ⭐ 2
+
+#### 🔍 [PR Review Agent](https://github.com/vaibhav-kodiyan/pr-review-agent)
+AI-powered, multi-pass code review for GitHub pull requests, built on LangGraph. Fans a PR diff out to specialized reviewers — logic, security, style, and performance — that stream in parallel and synthesize into one severity-tagged comment list. Local-first, multi-provider (Anthropic, OpenAI, Google, Mistral).
+`TypeScript` `Python`
+
+---
+
+📊 GitHub Stats
+
+<div align="center">
+<img src="https://img.shields.io/github/followers/vaibhav-kodiyan?style=social" alt="Followers"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fvaibhav-kodiyan&label=Public%20Repos&query=%24.public_repos&style=flat&color=blue" alt="Public repos"/>
+</div>
+
+---
+
+<div align="center">
+💭 <i>Breaks assumptions, not production...</i>
+</div>
