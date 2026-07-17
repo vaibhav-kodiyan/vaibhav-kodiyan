@@ -21,3 +21,5 @@ jobs:
           # base defaults to: header, activity, community, repositories, metadata
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
+          plugin_achievements: yes          # trophy-style highlights, replaces the old vercel.app trophy widget
+          plugin_achievements_threshold: C   # C = show all unlocked tiers; raise to B/A/S to show fewer
