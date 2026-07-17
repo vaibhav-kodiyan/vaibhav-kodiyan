@@ -126,8 +126,6 @@ AI-powered, multi-pass code review for GitHub pull requests, built on LangGraph.
 
 </div>
 
-> This one needs a one-time setup: add the included `snake.yml` to `.github/workflows/` in your `vaibhav-kodiyan/vaibhav-kodiyan` profile repo. A daily GitHub Action then eats through your real contribution graph and republishes the SVG — fully automatic after that.
-
 ---
 
 <div align="center">
