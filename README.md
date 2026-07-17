@@ -1,14 +1,17 @@
-<img width="1584" height="396" alt="image" src="https://github.com/user-attachments/assets/1c86704a-1fa4-4a11-b0b0-84a18ddbd4c3" />
-
-
 <div align="center">
+
+<img width="1584" height="396" alt="banner" src="https://github.com/user-attachments/assets/1c86704a-1fa4-4a11-b0b0-84a18ddbd4c3" />
+
+<a href="https://github.com/vaibhav-kodiyan">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duplicate=false&pause=1200&color=0A66C2&center=true&vCenter=true&width=640&lines=Agentic+Engineer;Breaks+assumptions%2C+not+production;Instruction+systems+for+coding+agents;Controllers+that+keep+a+race+car+on+line;Trackers+that+keep+satellites+from+colliding" alt="Typing SVG" />
+</a>
 
 # Hi there, I'm Vaibhav Kodiyan 👋
 
-**Agentic Engineer** · Breaks assumptions, not production 💭
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-kodiyan)
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/Vaibhav_Kodiyan)
+[![Profile Views](https://komarev.com/ghpvc/?username=vaibhav-kodiyan&color=0A66C2&style=flat&label=Profile+Views)](https://github.com/vaibhav-kodiyan)
+[![GitHub followers](https://img.shields.io/github/followers/vaibhav-kodiyan?style=flat&color=0A66C2&logo=github&label=Followers)](https://github.com/vaibhav-kodiyan?tab=followers)
 
 </div>
 
@@ -20,20 +23,97 @@ I build tools that sit at the intersection of **AI agents, autonomy, and simulat
 
 ---
 
+### 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=py,js,ts,cpp,react,threejs,ros,git,docker,linux&perline=10" alt="tech stack icons" />
+
+</div>
+
+---
+
+### 📊 Live GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=vaibhav-kodiyan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="GitHub stats" />
+<img src="https://streak-stats.demolab.com/?user=vaibhav-kodiyan&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-kodiyan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top languages" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhav-kodiyan&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution activity graph" />
+
+</div>
+
+> These cards pull live from the GitHub API on every render — no manual updates needed.
+
+---
+
 ### 📌 Featured Projects
 
 #### 🪶 [Rig](https://github.com/vaibhav-kodiyan/ravenwork-rig)
 A lightweight, host-agnostic instruction system for coding agents. Installs a portable, markdown-only "Tier 1" workflow into any repository — one shared router, focused skills for intent, design, execution, TDD, debugging, and code review, plus an always-on minimal-implementation rule. Native support spans Claude Code, Cursor, Windsurf, Cline, GitHub Copilot, Codex, Gemini CLI, Antigravity, Kiro, and more.
+
 `JavaScript` `Python` `Shell`
+[![Stars](https://img.shields.io/github/stars/vaibhav-kodiyan/ravenwork-rig?style=flat&color=0A66C2&label=%E2%98%85)](https://github.com/vaibhav-kodiyan/ravenwork-rig/stargazers)
+[![Last Commit](https://img.shields.io/github/last-commit/vaibhav-kodiyan/ravenwork-rig?style=flat&color=0A66C2)](https://github.com/vaibhav-kodiyan/ravenwork-rig/commits)
+[![Issues](https://img.shields.io/github/issues/vaibhav-kodiyan/ravenwork-rig?style=flat&color=0A66C2)](https://github.com/vaibhav-kodiyan/ravenwork-rig/issues)
 
 #### 🏎️ [FS Racing Line Optimizer](https://github.com/vaibhav-kodiyan/fs-racing-line-optimizer)
 A Formula Student racing line optimizer that turns cone positions into drivable paths. Implements Hungarian/greedy cone pairing, Laplacian and spline smoothing, convex racing-line optimization, and a kinematic bicycle model driven by Pure Pursuit, Stanley, and MPPI controllers — with a real-time simulator and an optional ROS 2 node.
-`Python` · ⭐ 2
+
+`Python`
+[![Stars](https://img.shields.io/github/stars/vaibhav-kodiyan/fs-racing-line-optimizer?style=flat&color=0A66C2&label=%E2%98%85)](https://github.com/vaibhav-kodiyan/fs-racing-line-optimizer/stargazers)
+[![Last Commit](https://img.shields.io/github/last-commit/vaibhav-kodiyan/fs-racing-line-optimizer?style=flat&color=0A66C2)](https://github.com/vaibhav-kodiyan/fs-racing-line-optimizer/commits)
+[![Issues](https://img.shields.io/github/issues/vaibhav-kodiyan/fs-racing-line-optimizer?style=flat&color=0A66C2)](https://github.com/vaibhav-kodiyan/fs-racing-line-optimizer/issues)
 
 #### 🛰️ [Nova Genesis Orbital Guard](https://github.com/vaibhav-kodiyan/nova-genisis-orbitalgaurd)
 A hybrid C++/TypeScript satellite orbital mechanics toolkit for high-precision orbit propagation and conjunction analysis. A C++ backend ingests TLE data, propagates satellite trajectories, and screens for close approaches; a React Three Fiber frontend renders it all in real-time 3D.
-`TypeScript` `C++` · ⭐ 2
+
+`TypeScript` `C++`
+[![Stars](https://img.shields.io/github/stars/vaibhav-kodiyan/nova-genisis-orbitalgaurd?style=flat&color=0A66C2&label=%E2%98%85)](https://github.com/vaibhav-kodiyan/nova-genisis-orbitalgaurd/stargazers)
+[![Last Commit](https://img.shields.io/github/last-commit/vaibhav-kodiyan/nova-genisis-orbitalgaurd?style=flat&color=0A66C2)](https://github.com/vaibhav-kodiyan/nova-genisis-orbitalgaurd/commits)
+[![Issues](https://img.shields.io/github/issues/vaibhav-kodiyan/nova-genisis-orbitalgaurd?style=flat&color=0A66C2)](https://github.com/vaibhav-kodiyan/nova-genisis-orbitalgaurd/issues)
 
 #### 🔍 [PR Review Agent](https://github.com/vaibhav-kodiyan/pr-review-agent)
 AI-powered, multi-pass code review for GitHub pull requests, built on LangGraph. Fans a PR diff out to specialized reviewers — logic, security, style, and performance — that stream in parallel and synthesize into one severity-tagged comment list. Local-first, multi-provider (Anthropic, OpenAI, Google, Mistral).
+
 `TypeScript` `Python`
+[![Stars](https://img.shields.io/github/stars/vaibhav-kodiyan/pr-review-agent?style=flat&color=0A66C2&label=%E2%98%85)](https://github.com/vaibhav-kodiyan/pr-review-agent/stargazers)
+[![Last Commit](https://img.shields.io/github/last-commit/vaibhav-kodiyan/pr-review-agent?style=flat&color=0A66C2)](https://github.com/vaibhav-kodiyan/pr-review-agent/commits)
+[![Issues](https://img.shields.io/github/issues/vaibhav-kodiyan/pr-review-agent?style=flat&color=0A66C2)](https://github.com/vaibhav-kodiyan/pr-review-agent/issues)
+
+> Star/commit/issue counts above are live badges from shields.io — they update automatically as the repos change, no editing required.
+
+---
+
+### 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=vaibhav-kodiyan&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" alt="GitHub trophies" />
+
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/vaibhav-kodiyan/vaibhav-kodiyan/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
+
+</div>
+
+> This one needs a one-time setup: add the included `snake.yml` to `.github/workflows/` in your `vaibhav-kodiyan/vaibhav-kodiyan` profile repo. A daily GitHub Action then eats through your real contribution graph and republishes the SVG — fully automatic after that.
+
+---
+
+<div align="center">
+<sub>⚡ Every card, badge, and graph above is generated live at render time — this file does not need to be hand-edited when stats change.</sub>
+</div>
