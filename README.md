@@ -33,24 +33,21 @@ I build tools that sit at the intersection of **AI agents, autonomy, and simulat
 
 ---
 
-### 📊 Live GitHub Stats
+### 📊 GitHub Metrics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vaibhav-kodiyan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="GitHub stats" />
+<img src="/github-metrics.svg" alt="GitHub Metrics" width="100%" />
+
+</div>
+
+<div align="center">
+
 <img src="https://streak-stats.demolab.com/?user=vaibhav-kodiyan&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-kodiyan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top languages" />
-
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhav-kodiyan&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution activity graph" />
-
-</div>
-
-> These cards pull live from the GitHub API on every render — no manual updates needed.
+> The metrics card above is generated once a day by `metrics.yml` (included) and committed straight into this repo as `github-metrics.svg` — it doesn't depend on a third-party server at render time, so it can't go down the way the old stats-card/top-langs/activity-graph badges did. One-time setup: add `metrics.yml` to `.github/workflows/`, create a classic GitHub personal access token (no scopes needed for public data), and save it as a repo secret named `METRICS_TOKEN`. Full walkthrough: https://github.com/lowlighter/metrics#-setup
 
 ---
 
