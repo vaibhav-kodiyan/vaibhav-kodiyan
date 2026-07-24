@@ -56,8 +56,7 @@ I build tools that sit at the intersection of **AI agents, autonomy, and simulat
 <td width="50%" valign="top">
 
 #### 🪶 [Rig](https://github.com/vaibhav-kodiyan/ravenwork-rig)
-A lightweight, host-agnostic instruction system for coding agents. Installs a portable, markdown-only "Tier 1" workflow into any repository — one shared router, focused skills for intent, design, execution, TDD, debugging, and code review, plus an always-on minimal-implementation rule. Native support spans Claude Code, Cursor, Windsurf, Cline, GitHub Copilot, Codex, Gemini CLI, Antigravity, Kiro, and more.
-
+Rig is a host-agnostic toolbox for coding agents. It installs a lightweight, markdown-only workflow with shared routing, focused skills, and an always-on implementation rule, without starting processes, requiring API keys, or adding dependencies.
 `JavaScript` `Python` `Shell`
 <br>
 [![Stars](https://img.shields.io/github/stars/vaibhav-kodiyan/ravenwork-rig?style=flat&color=0A66C2&label=%E2%98%85)](https://github.com/vaibhav-kodiyan/ravenwork-rig/stargazers)
