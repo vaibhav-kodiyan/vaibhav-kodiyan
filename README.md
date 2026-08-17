@@ -66,8 +66,8 @@ Rig is a host-agnostic toolbox for coding agents. It installs a lightweight, mar
 </td>
 <td width="50%" valign="top">
 
-#### 🏎️ [FS Racing Line Optimizer](https://github.com/vaibhav-kodiyan/fs-racing-line-optimizer)
-A Formula Student racing line optimizer that turns cone positions into drivable paths. Implements Hungarian/greedy cone pairing, Laplacian and spline smoothing, convex racing-line optimization, and a kinematic bicycle model driven by Pure Pursuit, Stanley, and MPPI controllers — with a real-time simulator and an optional ROS 2 node.
+#### 🏎️ [Racing Line Optimizer](https://github.com/vaibhav-kodiyan/fs-racing-line-optimizer)
+An autonomous racing line optimizer that turns cone positions into drivable paths. Implements Hungarian/greedy cone pairing, Laplacian and spline smoothing, convex racing-line optimization, and a kinematic bicycle model driven by Pure Pursuit, Stanley, and MPPI controllers — with a real-time simulator and an optional ROS 2 node.
 
 `Python`
 <br>
