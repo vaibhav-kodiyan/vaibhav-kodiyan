@@ -1,0 +1,23 @@
+# Vaibhav Kodiyan
+
+> Personal portfolio of Vaibhav Kodiyan, an agentic engineer building Rig — a sandboxed
+> runtime and review system for coding agents — at Qaynel Agentic Solutions. CS student at
+> MIT Manipal.
+
+This is a single-page site: work history, projects, skills, and contact info all live on
+the one page linked below, not on separate sub-pages. There is no blog or docs section.
+
+## Site
+
+- [Portfolio](https://vaibhav-kodiyan.github.io/vaibhav-kodiyan/): Full page — intro, work experience, selected projects, skills, education, and contact
+- [Résumé (PDF)](https://vaibhav-kodiyan.github.io/vaibhav-kodiyan/resume.pdf): Full résumé
+
+## Elsewhere
+
+- [GitHub](https://github.com/vaibhav-kodiyan): Code and project repos
+- [LinkedIn](https://in.linkedin.com/in/vaibhav-kodiyan): Professional profile
+- [X](https://x.com/Vaibhav_Kodiyan): Posts
+
+## Optional
+
+- [Email](mailto:vaibhav.kodiyan.vk@gmail.com): Direct contact for full-time and internship roles in agentic and autonomous systems
