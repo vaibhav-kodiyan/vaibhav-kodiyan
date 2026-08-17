@@ -310,6 +310,12 @@ section > .wrap > h2 { margin-bottom: var(--space-4); }
   flex-wrap: wrap;
   gap: var(--space-1);
 }
+.footer-link {
+  color: inherit;
+}
+.footer-link:hover {
+  color: var(--color-accent-dark);
+}
 
 /* ── Small screens ──────────────────────────────────────────────── */
 @media (max-width: 720px) {
